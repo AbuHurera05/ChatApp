@@ -67,7 +67,6 @@ ChatApp/
 
 ## 📸 GUI Screenshot
 
-> *(Add your screenshot here if available)*
 > Example:
 > ![ChatApp GUI](ChatApp.png)
 
