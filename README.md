@@ -69,7 +69,7 @@ ChatApp/
 
 > *(Add your screenshot here if available)*
 > Example:
-> ![ChatApp GUI](screenshot.png)
+> ![ChatApp GUI](ChatApp.png)
 
 ---
 
